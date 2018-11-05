@@ -7,7 +7,7 @@ gem 'rails', '5.2.1'
 gem 'mysql2', '0.5.2'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '5.0.7'
+gem 'sass-rails'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -16,9 +16,9 @@ gem 'uglifier', '>= 1.3.0'
 gem 'turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-gem 'jbuilder', '2.7.0'
+gem 'jbuilder'
 
-gem 'jquery-rails' 
+gem 'jquery-rails'
 gem 'jquery-ui-rails'
 
 group :doc do

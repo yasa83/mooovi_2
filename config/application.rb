@@ -24,5 +24,6 @@ module TechReviewSite
 
     # Precompile additional assets
     config.assets.precompile += %w( .svg .eot .woff .ttf )
+    config.active_storage.service = :local
   end
 end

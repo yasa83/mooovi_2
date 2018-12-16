@@ -1,0 +1,3 @@
+class Scraping
+
+end
